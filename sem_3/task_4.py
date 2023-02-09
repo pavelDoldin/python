@@ -5,7 +5,7 @@
 # -> 4
 
 
-start_list = [3, 7, 1, 7, 1, 2, 4, 9]
+start_list = [3, 7, 1, 7, 1, 4, 9]
 count = 0
 for i in range (len(start_list )- 1):
     if(start_list[i] < start_list[i+1]):
